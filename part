@@ -1,0 +1,48 @@
+referralRewardType options
+    discount
+    credit
+    points
+    giftCard
+    commission
+    other
+referralProgram
+    title
+    code
+    startDate optional
+    endDate optional
+    referrerRewardType referralRewardType
+    referrerRewardValue realNumber optional
+    referredRewardType referralRewardType optional
+    referredRewardValue realNumber optional
+    state
+    description optional
+    unique code
+referralCode
+    referralProgram
+    referrer
+    code
+    usageLimit integer optional
+    expiryDate optional
+    unique code
+referral
+    referralCode
+    referredPerson
+    referralDate
+    state
+    unique referralCode referredPerson
+referralConversion
+    referral
+    customer
+    order optional
+    conversionDate
+    value realNumber optional
+    currency optional
+    unique referral
+referralReward
+    referral
+    beneficiary
+    referralRewardType
+    value realNumber optional
+    currency optional
+    issuedDate optional
+    state

@@ -1,0 +1,16 @@
+{
+    "referralsCode": "Code",
+    "referralsDescription": "Description",
+    "referralsEndDate": "End date",
+    "referralsProgram": "Referral program",
+    "referralsPrograms": "Referral programs",
+    "referralsReferralCode": "Referral code",
+    "referralsReferralDate": "Referral date",
+    "referralsReferredPerson": "Referred person",
+    "referralsReferrals": "Referrals",
+    "referralsReferrer": "Referrer",
+    "referralsRewardType": "Reward type",
+    "referralsRewardValue": "Reward value",
+    "referralsStartDate": "Start date",
+    "referralsState": "State"
+}

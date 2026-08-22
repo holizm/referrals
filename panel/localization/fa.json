@@ -1,0 +1,16 @@
+{
+    "referralsCode": "کد",
+    "referralsDescription": "توضیحات",
+    "referralsEndDate": "تاریخ پایان",
+    "referralsProgram": "برنامه معرفی",
+    "referralsPrograms": "برنامه‌های معرفی",
+    "referralsReferralCode": "کد معرفی",
+    "referralsReferralDate": "تاریخ معرفی",
+    "referralsReferredPerson": "فرد معرفی‌شده",
+    "referralsReferrals": "معرفی‌ها",
+    "referralsReferrer": "معرف",
+    "referralsRewardType": "نوع پاداش",
+    "referralsRewardValue": "ارزش پاداش",
+    "referralsStartDate": "تاریخ شروع",
+    "referralsState": "مرحله"
+}
