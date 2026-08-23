@@ -1,3 +1,3 @@
-export default ({ referralCode }) => <span class='referralCode'>
+export default ({ referralCode }) => <span class='code'>
     {referralCode.code}
 </span>
