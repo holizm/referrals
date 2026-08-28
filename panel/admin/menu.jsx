@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'groupAdd',
+        path: '/referrals',
         title: 'referralsReferrals',
     },
 ]
