@@ -1,9 +1,6 @@
 {
     "common": {
         "referralCode": "Referral code",
-        "code": "Code",
-        "description": "Description",
-        "endDate": "End date",
         "program": "Referral program",
         "programs": "Referral programs",
         "referralDate": "Referral date",
@@ -12,8 +9,6 @@
         "referrer": "Referrer",
         "rewardType": "Reward type",
         "rewardValue": "Reward value",
-        "startDate": "Start date",
-        "state": "State",
         "invite": "Invite a friend"
     }
 }

@@ -1,9 +1,6 @@
 {
     "common": {
         "referralCode": "کد معرفی",
-        "code": "کد",
-        "description": "توضیحات",
-        "endDate": "تاریخ پایان",
         "program": "برنامه معرفی",
         "programs": "برنامه‌های معرفی",
         "referralDate": "تاریخ معرفی",
@@ -12,8 +9,6 @@
         "referrer": "معرف",
         "rewardType": "نوع پاداش",
         "rewardValue": "ارزش پاداش",
-        "startDate": "تاریخ شروع",
-        "state": "مرحله",
         "invite": "دعوت از یک دوست"
     }
 }
