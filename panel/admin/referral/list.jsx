@@ -8,7 +8,7 @@ const headers = <>
     <th start>referralsReferrer</th>
     <th>referralsReferredPerson</th>
     <th>referralsReferralDate</th>
-    <th>referralsState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>

@@ -10,7 +10,7 @@ const headers = <>
     <th>referralsCode</th>
     <th>referralsStartDate</th>
     <th>referralsEndDate</th>
-    <th>referralsState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
