@@ -1,13 +1,11 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
+        "referralCode": "کد معرفی",
         "code": "کد",
         "description": "توضیحات",
         "endDate": "تاریخ پایان",
         "program": "برنامه معرفی",
         "programs": "برنامه‌های معرفی",
-        "referralCode": "کد معرفی",
         "referralDate": "تاریخ معرفی",
         "referredPerson": "فرد معرفی‌شده",
         "referrals": "معرفی‌ها",
@@ -15,10 +13,7 @@
         "rewardType": "نوع پاداش",
         "rewardValue": "ارزش پاداش",
         "startDate": "تاریخ شروع",
-        "state": "مرحله"
-    },
-    "site": {
-        "code": "کد معرفی",
+        "state": "مرحله",
         "invite": "دعوت از یک دوست"
     }
 }

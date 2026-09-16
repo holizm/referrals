@@ -1,13 +1,11 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
+        "referralCode": "Referral code",
         "code": "Code",
         "description": "Description",
         "endDate": "End date",
         "program": "Referral program",
         "programs": "Referral programs",
-        "referralCode": "Referral code",
         "referralDate": "Referral date",
         "referredPerson": "Referred person",
         "referrals": "Referrals",
@@ -15,10 +13,7 @@
         "rewardType": "Reward type",
         "rewardValue": "Reward value",
         "startDate": "Start date",
-        "state": "State"
-    },
-    "site": {
-        "code": "Referral code",
+        "state": "State",
         "invite": "Invite a friend"
     }
 }
