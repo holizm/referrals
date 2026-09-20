@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "추천 코드",
+        "program": "추천 프로그램",
+        "programs": "추천 프로그램",
+        "referralDate": "추천일",
+        "referredPerson": "추천받은 사람",
+        "referrals": "추천",
+        "referrer": "추천인",
+        "rewardType": "보상 유형",
+        "rewardValue": "보상 가치"
+    }
+}

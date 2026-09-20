@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Kode referal",
+        "program": "Program referal",
+        "programs": "Program referal",
+        "referralDate": "Tanggal referal",
+        "referredPerson": "Orang yang direferensikan",
+        "referrals": "Referal",
+        "referrer": "Pemberi referal",
+        "rewardType": "Jenis imbalan",
+        "rewardValue": "Nilai imbalan"
+    }
+}

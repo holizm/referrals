@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Värvningskod",
+        "program": "Värvningsprogram",
+        "programs": "Värvningsprogram",
+        "referralDate": "Värvningsdatum",
+        "referredPerson": "Värvad person",
+        "referrals": "Värvningar",
+        "referrer": "Värvare",
+        "rewardType": "Belöningstyp",
+        "rewardValue": "Belöningsvärde"
+    }
+}

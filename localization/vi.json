@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Mã giới thiệu",
+        "program": "Chương trình giới thiệu",
+        "programs": "Các chương trình giới thiệu",
+        "referralDate": "Ngày giới thiệu",
+        "referredPerson": "Người được giới thiệu",
+        "referrals": "Lượt giới thiệu",
+        "referrer": "Người giới thiệu",
+        "rewardType": "Loại phần thưởng",
+        "rewardValue": "Giá trị phần thưởng"
+    }
+}

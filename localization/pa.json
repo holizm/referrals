@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "ਰੈਫਰਲ ਕੋਡ",
+        "program": "ਰੈਫਰਲ ਪ੍ਰੋਗਰਾਮ",
+        "programs": "ਰੈਫਰਲ ਪ੍ਰੋਗਰਾਮ",
+        "referralDate": "ਰੈਫਰਲ ਦੀ ਮਿਤੀ",
+        "referredPerson": "ਰੈਫਰ ਕੀਤਾ ਵਿਅਕਤੀ",
+        "referrals": "ਰੈਫਰਲ",
+        "referrer": "ਰੈਫਰ ਕਰਨ ਵਾਲਾ",
+        "rewardType": "ਇਨਾਮ ਦੀ ਕਿਸਮ",
+        "rewardValue": "ਇਨਾਮ ਦਾ ਮੁੱਲ"
+    }
+}

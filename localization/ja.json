@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "紹介コード",
+        "program": "紹介プログラム",
+        "programs": "紹介プログラム",
+        "referralDate": "紹介日",
+        "referredPerson": "紹介された人",
+        "referrals": "紹介",
+        "referrer": "紹介者",
+        "rewardType": "報酬タイプ",
+        "rewardValue": "報酬額"
+    }
+}

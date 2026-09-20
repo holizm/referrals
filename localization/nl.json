@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Verwijscode",
+        "program": "Verwijsprogramma",
+        "programs": "Verwijsprogramma's",
+        "referralDate": "Verwijsdatum",
+        "referredPerson": "Doorverwezen persoon",
+        "referrals": "Verwijzingen",
+        "referrer": "Verwijzer",
+        "rewardType": "Beloningstype",
+        "rewardValue": "Beloningswaarde"
+    }
+}

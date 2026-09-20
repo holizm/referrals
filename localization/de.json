@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Empfehlungscode",
+        "program": "Empfehlungsprogramm",
+        "programs": "Empfehlungsprogramme",
+        "referralDate": "Empfehlungsdatum",
+        "referredPerson": "Empfohlene Person",
+        "referrals": "Empfehlungen",
+        "referrer": "Empfehlende Person",
+        "rewardType": "Prämienart",
+        "rewardValue": "Prämienwert"
+    }
+}

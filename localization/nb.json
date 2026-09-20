@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Vervingskode",
+        "program": "Vervingsprogram",
+        "programs": "Vervingsprogrammer",
+        "referralDate": "Vervingsdato",
+        "referredPerson": "Vervet person",
+        "referrals": "Vervinger",
+        "referrer": "Vervende person",
+        "rewardType": "Belønningstype",
+        "rewardValue": "Belønningsverdi"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Yönlendirme kodu",
+        "program": "Yönlendirme programı",
+        "programs": "Yönlendirme programları",
+        "referralDate": "Yönlendirme tarihi",
+        "referredPerson": "Yönlendirilen kişi",
+        "referrals": "Yönlendirmeler",
+        "referrer": "Yönlendiren",
+        "rewardType": "Ödül türü",
+        "rewardValue": "Ödül değeri"
+    }
+}

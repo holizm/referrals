@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Kod rujukan",
+        "program": "Program rujukan",
+        "programs": "Program rujukan",
+        "referralDate": "Tarikh rujukan",
+        "referredPerson": "Orang yang dirujuk",
+        "referrals": "Rujukan",
+        "referrer": "Pemberi rujukan",
+        "rewardType": "Jenis ganjaran",
+        "rewardValue": "Nilai ganjaran"
+    }
+}

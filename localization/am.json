@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "የማጣቀሻ ኮድ",
+        "program": "የማጣቀሻ ፕሮግራም",
+        "programs": "የማጣቀሻ ፕሮግራሞች",
+        "referralDate": "የማጣቀሻ ቀን",
+        "referredPerson": "የተጠቀሰ ሰው",
+        "referrals": "ማጣቀሻዎች",
+        "referrer": "ጠቋሚ",
+        "rewardType": "የሽልማት ዓይነት",
+        "rewardValue": "የሽልማት ዋጋ"
+    }
+}

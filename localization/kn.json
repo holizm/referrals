@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "ರೆಫರಲ್ ಕೋಡ್",
+        "program": "ರೆಫರಲ್ ಕಾರ್ಯಕ್ರಮ",
+        "programs": "ರೆಫರಲ್ ಕಾರ್ಯಕ್ರಮಗಳು",
+        "referralDate": "ರೆಫರಲ್ ದಿನಾಂಕ",
+        "referredPerson": "ಶಿಫಾರಸು ಮಾಡಲಾದ ವ್ಯಕ್ತಿ",
+        "referrals": "ರೆಫರಲ್‌ಗಳು",
+        "referrer": "ಶಿಫಾರಸು ಮಾಡಿದವರು",
+        "rewardType": "ಬಹುಮಾನದ ಪ್ರಕಾರ",
+        "rewardValue": "ಬಹುಮಾನದ ಮೌಲ್ಯ"
+    }
+}

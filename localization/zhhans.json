@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "推荐码",
+        "program": "推荐计划",
+        "programs": "推荐计划",
+        "referralDate": "推荐日期",
+        "referredPerson": "被推荐人",
+        "referrals": "推荐记录",
+        "referrer": "推荐人",
+        "rewardType": "奖励类型",
+        "rewardValue": "奖励价值"
+    }
+}

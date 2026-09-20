@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "રેફરલ કોડ",
+        "program": "રેફરલ કાર્યક્રમ",
+        "programs": "રેફરલ કાર્યક્રમો",
+        "referralDate": "રેફરલ તારીખ",
+        "referredPerson": "રેફર કરેલી વ્યક્તિ",
+        "referrals": "રેફરલ્સ",
+        "referrer": "રેફર કરનાર",
+        "rewardType": "પુરસ્કારનો પ્રકાર",
+        "rewardValue": "પુરસ્કારનું મૂલ્ય"
+    }
+}

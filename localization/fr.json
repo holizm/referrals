@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Code de parrainage",
+        "program": "Programme de parrainage",
+        "programs": "Programmes de parrainage",
+        "referralDate": "Date du parrainage",
+        "referredPerson": "Personne parrainée",
+        "referrals": "Parrainages",
+        "referrer": "Parrain",
+        "rewardType": "Type de récompense",
+        "rewardValue": "Valeur de la récompense"
+    }
+}

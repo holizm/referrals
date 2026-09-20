@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Henvisningskode",
+        "program": "Henvisningsprogram",
+        "programs": "Henvisningsprogrammer",
+        "referralDate": "Henvisningsdato",
+        "referredPerson": "Henvist person",
+        "referrals": "Henvisninger",
+        "referrer": "Henviser",
+        "rewardType": "Belønningstype",
+        "rewardValue": "Belønningsværdi"
+    }
+}

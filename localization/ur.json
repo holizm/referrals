@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "ریفرل کوڈ",
+        "program": "ریفرل پروگرام",
+        "programs": "ریفرل پروگرامز",
+        "referralDate": "ریفرل کی تاریخ",
+        "referredPerson": "ریفر کیا گیا شخص",
+        "referrals": "ریفرلز",
+        "referrer": "ریفر کرنے والا",
+        "rewardType": "انعام کی قسم",
+        "rewardValue": "انعام کی قدر"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Реферальний код",
+        "program": "Реферальна програма",
+        "programs": "Реферальні програми",
+        "referralDate": "Дата рекомендації",
+        "referredPerson": "Запрошена особа",
+        "referrals": "Рекомендації",
+        "referrer": "Особа, що запросила",
+        "rewardType": "Тип винагороди",
+        "rewardValue": "Розмір винагороди"
+    }
+}

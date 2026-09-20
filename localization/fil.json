@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Referral code",
+        "program": "Programang referral",
+        "programs": "Mga programang referral",
+        "referralDate": "Petsa ng referral",
+        "referredPerson": "Taong ni-refer",
+        "referrals": "Mga referral",
+        "referrer": "Nag-refer",
+        "rewardType": "Uri ng gantimpala",
+        "rewardValue": "Halaga ng gantimpala"
+    }
+}

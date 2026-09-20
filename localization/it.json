@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Codice di segnalazione",
+        "program": "Programma di segnalazione",
+        "programs": "Programmi di segnalazione",
+        "referralDate": "Data della segnalazione",
+        "referredPerson": "Persona segnalata",
+        "referrals": "Segnalazioni",
+        "referrer": "Segnalatore",
+        "rewardType": "Tipo di premio",
+        "rewardValue": "Valore del premio"
+    }
+}

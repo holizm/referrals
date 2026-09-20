@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "ညွှန်းဆိုကုဒ်",
+        "program": "ညွှန်းဆိုအစီအစဉ်",
+        "programs": "ညွှန်းဆိုအစီအစဉ်များ",
+        "referralDate": "ညွှန်းဆိုသည့်ရက်",
+        "referredPerson": "ညွှန်းဆိုခံရသူ",
+        "referrals": "ညွှန်းဆိုမှုများ",
+        "referrer": "ညွှန်းဆိုသူ",
+        "rewardType": "ဆုအမျိုးအစား",
+        "rewardValue": "ဆုတန်ဖိုး"
+    }
+}

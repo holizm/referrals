@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Cod de recomandare",
+        "program": "Program de recomandări",
+        "programs": "Programe de recomandări",
+        "referralDate": "Data recomandării",
+        "referredPerson": "Persoană recomandată",
+        "referrals": "Recomandări",
+        "referrer": "Persoană care recomandă",
+        "rewardType": "Tipul recompensei",
+        "rewardValue": "Valoarea recompensei"
+    }
+}

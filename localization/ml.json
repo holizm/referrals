@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "റഫറൽ കോഡ്",
+        "program": "റഫറൽ പ്രോഗ്രാം",
+        "programs": "റഫറൽ പ്രോഗ്രാമുകൾ",
+        "referralDate": "റഫറൽ തീയതി",
+        "referredPerson": "റഫർ ചെയ്ത വ്യക്തി",
+        "referrals": "റഫറലുകൾ",
+        "referrer": "റഫർ ചെയ്തയാൾ",
+        "rewardType": "പ്രതിഫല തരം",
+        "rewardValue": "പ്രതിഫല മൂല്യം"
+    }
+}

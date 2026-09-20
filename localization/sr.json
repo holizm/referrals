@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "Код препоруке",
+        "program": "Програм препорука",
+        "programs": "Програми препорука",
+        "referralDate": "Датум препоруке",
+        "referredPerson": "Препоручена особа",
+        "referrals": "Препоруке",
+        "referrer": "Особа која препоручује",
+        "rewardType": "Врста награде",
+        "rewardValue": "Вредност награде"
+    }
+}

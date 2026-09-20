@@ -1,0 +1,13 @@
+{
+    "common": {
+        "referralCode": "رمز الإحالة",
+        "program": "برنامج الإحالة",
+        "programs": "برامج الإحالة",
+        "referralDate": "تاريخ الإحالة",
+        "referredPerson": "الشخص المُحال",
+        "referrals": "الإحالات",
+        "referrer": "المُحيل",
+        "rewardType": "نوع المكافأة",
+        "rewardValue": "قيمة المكافأة"
+    }
+}
