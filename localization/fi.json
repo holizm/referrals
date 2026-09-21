@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Suosittelukoodi",
         "program": "Suositteluohjelma",
         "programs": "Suositteluohjelmat",
+        "referral": "Suosittelu",
+        "referralCode": "Suosittelukoodi",
+        "referralCodes": "Suosittelukoodit",
+        "referralConversion": "Suosittelukonversio",
+        "referralConversions": "Suosittelukonversiot",
         "referralDate": "Suosittelupäivä",
-        "referredPerson": "Suositeltu henkilö",
+        "referralReward": "Suosittelupalkkio",
+        "referralRewards": "Suosittelupalkkiot",
         "referrals": "Suosittelut",
+        "referredPerson": "Suositeltu henkilö",
         "referrer": "Suosittelija",
         "rewardType": "Palkinnon tyyppi",
         "rewardValue": "Palkinnon arvo"

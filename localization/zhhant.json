@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "推薦碼",
         "program": "推薦計畫",
         "programs": "推薦計畫",
+        "referral": "推薦",
+        "referralCode": "推薦碼",
+        "referralCodes": "推薦碼",
+        "referralConversion": "推薦轉換",
+        "referralConversions": "推薦轉換",
         "referralDate": "推薦日期",
-        "referredPerson": "被推薦人",
+        "referralReward": "推薦獎勵",
+        "referralRewards": "推薦獎勵",
         "referrals": "推薦記錄",
+        "referredPerson": "被推薦人",
         "referrer": "推薦人",
         "rewardType": "獎勵類型",
         "rewardValue": "獎勵價值"

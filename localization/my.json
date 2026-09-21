@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "ညွှန်းဆိုကုဒ်",
         "program": "ညွှန်းဆိုအစီအစဉ်",
         "programs": "ညွှန်းဆိုအစီအစဉ်များ",
+        "referral": "ရည်ညွှန်းမှု",
+        "referralCode": "ညွှန်းဆိုကုဒ်",
+        "referralCodes": "ရည်ညွှန်းကုဒ်များ",
+        "referralConversion": "ရည်ညွှန်း ပြောင်းလဲမှု",
+        "referralConversions": "ရည်ညွှန်း ပြောင်းလဲမှုများ",
         "referralDate": "ညွှန်းဆိုသည့်ရက်",
-        "referredPerson": "ညွှန်းဆိုခံရသူ",
+        "referralReward": "ရည်ညွှန်း ဆုလာဘ်",
+        "referralRewards": "ရည်ညွှန်း ဆုလာဘ်များ",
         "referrals": "ညွှန်းဆိုမှုများ",
+        "referredPerson": "ညွှန်းဆိုခံရသူ",
         "referrer": "ညွှန်းဆိုသူ",
         "rewardType": "ဆုအမျိုးအစား",
         "rewardValue": "ဆုတန်ဖိုး"

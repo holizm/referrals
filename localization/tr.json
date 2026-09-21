@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Yönlendirme kodu",
         "program": "Yönlendirme programı",
         "programs": "Yönlendirme programları",
+        "referral": "Yönlendirme",
+        "referralCode": "Yönlendirme kodu",
+        "referralCodes": "Yönlendirme kodları",
+        "referralConversion": "Yönlendirme dönüşümü",
+        "referralConversions": "Yönlendirme dönüşümleri",
         "referralDate": "Yönlendirme tarihi",
-        "referredPerson": "Yönlendirilen kişi",
+        "referralReward": "Yönlendirme ödülü",
+        "referralRewards": "Yönlendirme ödülleri",
         "referrals": "Yönlendirmeler",
+        "referredPerson": "Yönlendirilen kişi",
         "referrer": "Yönlendiren",
         "rewardType": "Ödül türü",
         "rewardValue": "Ödül değeri"

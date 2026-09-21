@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Cod de recomandare",
         "program": "Program de recomandări",
         "programs": "Programe de recomandări",
+        "referral": "Recomandare",
+        "referralCode": "Cod de recomandare",
+        "referralCodes": "Coduri de recomandare",
+        "referralConversion": "Conversie din recomandare",
+        "referralConversions": "Conversii din recomandare",
         "referralDate": "Data recomandării",
-        "referredPerson": "Persoană recomandată",
+        "referralReward": "Recompensă de recomandare",
+        "referralRewards": "Recompense de recomandare",
         "referrals": "Recomandări",
+        "referredPerson": "Persoană recomandată",
         "referrer": "Persoană care recomandă",
         "rewardType": "Tipul recompensei",
         "rewardValue": "Valoarea recompensei"

@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Code de parrainage",
         "program": "Programme de parrainage",
         "programs": "Programmes de parrainage",
+        "referral": "Parrainage",
+        "referralCode": "Code de parrainage",
+        "referralCodes": "Codes de parrainage",
+        "referralConversion": "Conversion de parrainage",
+        "referralConversions": "Conversions de parrainage",
         "referralDate": "Date du parrainage",
-        "referredPerson": "Personne parrainée",
+        "referralReward": "Récompense de parrainage",
+        "referralRewards": "Récompenses de parrainage",
         "referrals": "Parrainages",
+        "referredPerson": "Personne parrainée",
         "referrer": "Parrain",
         "rewardType": "Type de récompense",
         "rewardValue": "Valeur de la récompense"

@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "റഫറൽ കോഡ്",
         "program": "റഫറൽ പ്രോഗ്രാം",
         "programs": "റഫറൽ പ്രോഗ്രാമുകൾ",
+        "referral": "റഫറൽ",
+        "referralCode": "റഫറൽ കോഡ്",
+        "referralCodes": "റഫറൽ കോഡുകൾ",
+        "referralConversion": "റഫറൽ പരിവർത്തനം",
+        "referralConversions": "റഫറൽ പരിവർത്തനങ്ങൾ",
         "referralDate": "റഫറൽ തീയതി",
-        "referredPerson": "റഫർ ചെയ്ത വ്യക്തി",
+        "referralReward": "റഫറൽ പ്രതിഫലം",
+        "referralRewards": "റഫറൽ പ്രതിഫലങ്ങൾ",
         "referrals": "റഫറലുകൾ",
+        "referredPerson": "റഫർ ചെയ്ത വ്യക്തി",
         "referrer": "റഫർ ചെയ്തയാൾ",
         "rewardType": "പ്രതിഫല തരം",
         "rewardValue": "പ്രതിഫല മൂല്യം"

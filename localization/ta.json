@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "பரிந்துரைக் குறியீடு",
         "program": "பரிந்துரைத் திட்டம்",
         "programs": "பரிந்துரைத் திட்டங்கள்",
+        "referral": "பரிந்துரை",
+        "referralCode": "பரிந்துரைக் குறியீடு",
+        "referralCodes": "பரிந்துரை குறியீடுகள்",
+        "referralConversion": "பரிந்துரை மாற்றம்",
+        "referralConversions": "பரிந்துரை மாற்றங்கள்",
         "referralDate": "பரிந்துரை தேதி",
-        "referredPerson": "பரிந்துரைக்கப்பட்ட நபர்",
+        "referralReward": "பரிந்துரை வெகுமதி",
+        "referralRewards": "பரிந்துரை வெகுமதிகள்",
         "referrals": "பரிந்துரைகள்",
+        "referredPerson": "பரிந்துரைக்கப்பட்ட நபர்",
         "referrer": "பரிந்துரைத்தவர்",
         "rewardType": "வெகுமதி வகை",
         "rewardValue": "வெகுமதி மதிப்பு"

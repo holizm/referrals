@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Kóòdù ìtọ́kasí",
         "program": "Ètò ìtọ́kasí",
         "programs": "Àwọn ètò ìtọ́kasí",
+        "referral": "Ìtọ́kasí",
+        "referralCode": "Kóòdù ìtọ́kasí",
+        "referralCodes": "Àwọn kóòdù ìtọ́kasí",
+        "referralConversion": "Ìyípadà ìtọ́kasí",
+        "referralConversions": "Àwọn ìyípadà ìtọ́kasí",
         "referralDate": "Ọjọ́ ìtọ́kasí",
-        "referredPerson": "Ẹni tí a tọ́ka sí",
+        "referralReward": "Ẹ̀bùn ìtọ́kasí",
+        "referralRewards": "Àwọn ẹ̀bùn ìtọ́kasí",
         "referrals": "Àwọn ìtọ́kasí",
+        "referredPerson": "Ẹni tí a tọ́ka sí",
         "referrer": "Ẹni tó tọ́ka",
         "rewardType": "Irú ẹ̀bùn",
         "rewardValue": "Iye ẹ̀bùn"

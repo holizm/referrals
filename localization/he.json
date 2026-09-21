@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "קוד הפניה",
         "program": "תוכנית הפניות",
         "programs": "תוכניות הפניות",
+        "referral": "הפניה",
+        "referralCode": "קוד הפניה",
+        "referralCodes": "קודי הפניה",
+        "referralConversion": "המרת הפניה",
+        "referralConversions": "המרות הפניה",
         "referralDate": "תאריך הפניה",
-        "referredPerson": "האדם שהופנה",
+        "referralReward": "תגמול הפניה",
+        "referralRewards": "תגמולי הפניה",
         "referrals": "הפניות",
+        "referredPerson": "האדם שהופנה",
         "referrer": "המפנה",
         "rewardType": "סוג התגמול",
         "rewardValue": "ערך התגמול"

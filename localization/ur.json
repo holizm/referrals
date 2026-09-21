@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "ریفرل کوڈ",
         "program": "ریفرل پروگرام",
         "programs": "ریفرل پروگرامز",
+        "referral": "ریفرل",
+        "referralCode": "ریفرل کوڈ",
+        "referralCodes": "ریفرل کوڈز",
+        "referralConversion": "ریفرل تبدیلی",
+        "referralConversions": "ریفرل تبدیلیاں",
         "referralDate": "ریفرل کی تاریخ",
-        "referredPerson": "ریفر کیا گیا شخص",
+        "referralReward": "ریفرل انعام",
+        "referralRewards": "ریفرل انعامات",
         "referrals": "ریفرلز",
+        "referredPerson": "ریفر کیا گیا شخص",
         "referrer": "ریفر کرنے والا",
         "rewardType": "انعام کی قسم",
         "rewardValue": "انعام کی قدر"

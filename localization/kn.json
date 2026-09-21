@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "ರೆಫರಲ್ ಕೋಡ್",
         "program": "ರೆಫರಲ್ ಕಾರ್ಯಕ್ರಮ",
         "programs": "ರೆಫರಲ್ ಕಾರ್ಯಕ್ರಮಗಳು",
+        "referral": "ರೆಫರಲ್",
+        "referralCode": "ರೆಫರಲ್ ಕೋಡ್",
+        "referralCodes": "ರೆಫರಲ್ ಕೋಡ್‌ಗಳು",
+        "referralConversion": "ರೆಫರಲ್ ಪರಿವರ್ತನೆ",
+        "referralConversions": "ರೆಫರಲ್ ಪರಿವರ್ತನೆಗಳು",
         "referralDate": "ರೆಫರಲ್ ದಿನಾಂಕ",
-        "referredPerson": "ಶಿಫಾರಸು ಮಾಡಲಾದ ವ್ಯಕ್ತಿ",
+        "referralReward": "ರೆಫರಲ್ ಬಹುಮಾನ",
+        "referralRewards": "ರೆಫರಲ್ ಬಹುಮಾನಗಳು",
         "referrals": "ರೆಫರಲ್‌ಗಳು",
+        "referredPerson": "ಶಿಫಾರಸು ಮಾಡಲಾದ ವ್ಯಕ್ತಿ",
         "referrer": "ಶಿಫಾರಸು ಮಾಡಿದವರು",
         "rewardType": "ಬಹುಮಾನದ ಪ್ರಕಾರ",
         "rewardValue": "ಬಹುಮಾನದ ಮೌಲ್ಯ"

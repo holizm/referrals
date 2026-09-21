@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Verwysingskode",
         "program": "Verwysingsprogram",
         "programs": "Verwysingsprogramme",
+        "referral": "Verwysing",
+        "referralCode": "Verwysingskode",
+        "referralCodes": "Verwysingskodes",
+        "referralConversion": "Verwysingsomskakeling",
+        "referralConversions": "Verwysingsomskakelings",
         "referralDate": "Verwysingsdatum",
-        "referredPerson": "Verwysde persoon",
+        "referralReward": "Verwysingsbeloning",
+        "referralRewards": "Verwysingsbelonings",
         "referrals": "Verwysings",
+        "referredPerson": "Verwysde persoon",
         "referrer": "Verwyser",
         "rewardType": "Beloningstipe",
         "rewardValue": "Beloningswaarde"

@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Реферальный код",
         "program": "Реферальная программа",
         "programs": "Реферальные программы",
+        "referral": "Реферал",
+        "referralCode": "Реферальный код",
+        "referralCodes": "Реферальные коды",
+        "referralConversion": "Реферальная конверсия",
+        "referralConversions": "Реферальные конверсии",
         "referralDate": "Дата рекомендации",
-        "referredPerson": "Приглашённый пользователь",
+        "referralReward": "Реферальная награда",
+        "referralRewards": "Реферальные награды",
         "referrals": "Рекомендации",
+        "referredPerson": "Приглашённый пользователь",
         "referrer": "Пригласивший пользователь",
         "rewardType": "Тип вознаграждения",
         "rewardValue": "Размер вознаграждения"

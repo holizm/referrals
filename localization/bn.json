@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "রেফারেল কোড",
         "program": "রেফারেল প্রোগ্রাম",
         "programs": "রেফারেল প্রোগ্রামসমূহ",
+        "referral": "রেফারেল",
+        "referralCode": "রেফারেল কোড",
+        "referralCodes": "রেফারেল কোডসমূহ",
+        "referralConversion": "রেফারেল রূপান্তর",
+        "referralConversions": "রেফারেল রূপান্তরসমূহ",
         "referralDate": "রেফারেলের তারিখ",
-        "referredPerson": "রেফার করা ব্যক্তি",
+        "referralReward": "রেফারেল পুরস্কার",
+        "referralRewards": "রেফারেল পুরস্কারসমূহ",
         "referrals": "রেফারেলসমূহ",
+        "referredPerson": "রেফার করা ব্যক্তি",
         "referrer": "রেফারকারী",
         "rewardType": "পুরস্কারের ধরন",
         "rewardValue": "পুরস্কারের মূল্য"

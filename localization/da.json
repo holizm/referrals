@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Henvisningskode",
         "program": "Henvisningsprogram",
         "programs": "Henvisningsprogrammer",
+        "referral": "Henvisning",
+        "referralCode": "Henvisningskode",
+        "referralCodes": "Henvisningskoder",
+        "referralConversion": "Henvisningskonvertering",
+        "referralConversions": "Henvisningskonverteringer",
         "referralDate": "Henvisningsdato",
-        "referredPerson": "Henvist person",
+        "referralReward": "Henvisningsbelønning",
+        "referralRewards": "Henvisningsbelønninger",
         "referrals": "Henvisninger",
+        "referredPerson": "Henvist person",
         "referrer": "Henviser",
         "rewardType": "Belønningstype",
         "rewardValue": "Belønningsværdi"

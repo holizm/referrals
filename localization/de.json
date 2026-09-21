@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Empfehlungscode",
         "program": "Empfehlungsprogramm",
         "programs": "Empfehlungsprogramme",
+        "referral": "Empfehlung",
+        "referralCode": "Empfehlungscode",
+        "referralCodes": "Empfehlungscodes",
+        "referralConversion": "Empfehlungskonversion",
+        "referralConversions": "Empfehlungskonversionen",
         "referralDate": "Empfehlungsdatum",
-        "referredPerson": "Empfohlene Person",
+        "referralReward": "Empfehlungsprämie",
+        "referralRewards": "Empfehlungsprämien",
         "referrals": "Empfehlungen",
+        "referredPerson": "Empfohlene Person",
         "referrer": "Empfehlende Person",
         "rewardType": "Prämienart",
         "rewardValue": "Prämienwert"

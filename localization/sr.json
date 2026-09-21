@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Код препоруке",
         "program": "Програм препорука",
         "programs": "Програми препорука",
+        "referral": "Препорука",
+        "referralCode": "Код препоруке",
+        "referralCodes": "Кодови препоруке",
+        "referralConversion": "Конверзија препоруке",
+        "referralConversions": "Конверзије препоруке",
         "referralDate": "Датум препоруке",
-        "referredPerson": "Препоручена особа",
+        "referralReward": "Награда за препоруку",
+        "referralRewards": "Награде за препоруку",
         "referrals": "Препоруке",
+        "referredPerson": "Препоручена особа",
         "referrer": "Особа која препоручује",
         "rewardType": "Врста награде",
         "rewardValue": "Вредност награде"

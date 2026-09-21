@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "รหัสแนะนำ",
         "program": "โปรแกรมแนะนำ",
         "programs": "โปรแกรมแนะนำ",
+        "referral": "การแนะนำ",
+        "referralCode": "รหัสแนะนำ",
+        "referralCodes": "รหัสแนะนำ",
+        "referralConversion": "การเปลี่ยนเป็นลูกค้าจากการแนะนำ",
+        "referralConversions": "การเปลี่ยนเป็นลูกค้าจากการแนะนำ",
         "referralDate": "วันที่แนะนำ",
-        "referredPerson": "ผู้ที่ได้รับการแนะนำ",
+        "referralReward": "รางวัลการแนะนำ",
+        "referralRewards": "รางวัลการแนะนำ",
         "referrals": "การแนะนำ",
+        "referredPerson": "ผู้ที่ได้รับการแนะนำ",
         "referrer": "ผู้แนะนำ",
         "rewardType": "ประเภทรางวัล",
         "rewardValue": "มูลค่ารางวัล"

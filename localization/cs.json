@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Doporučovací kód",
         "program": "Doporučovací program",
         "programs": "Doporučovací programy",
+        "referral": "Doporučení",
+        "referralCode": "Doporučovací kód",
+        "referralCodes": "Doporučovací kódy",
+        "referralConversion": "Konverze doporučení",
+        "referralConversions": "Konverze doporučení",
         "referralDate": "Datum doporučení",
-        "referredPerson": "Doporučená osoba",
+        "referralReward": "Odměna za doporučení",
+        "referralRewards": "Odměny za doporučení",
         "referrals": "Doporučení",
+        "referredPerson": "Doporučená osoba",
         "referrer": "Doporučující osoba",
         "rewardType": "Typ odměny",
         "rewardValue": "Hodnota odměny"

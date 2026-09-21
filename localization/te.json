@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "రిఫరల్ కోడ్",
         "program": "రిఫరల్ కార్యక్రమం",
         "programs": "రిఫరల్ కార్యక్రమాలు",
+        "referral": "రిఫరల్",
+        "referralCode": "రిఫరల్ కోడ్",
+        "referralCodes": "రిఫరల్ కోడ్‌లు",
+        "referralConversion": "రిఫరల్ మార్పిడి",
+        "referralConversions": "రిఫరల్ మార్పిడులు",
         "referralDate": "రిఫరల్ తేదీ",
-        "referredPerson": "సిఫార్సు చేయబడిన వ్యక్తి",
+        "referralReward": "రిఫరల్ బహుమతి",
+        "referralRewards": "రిఫరల్ బహుమతులు",
         "referrals": "రిఫరల్‌లు",
+        "referredPerson": "సిఫార్సు చేయబడిన వ్యక్తి",
         "referrer": "సిఫార్సు చేసిన వ్యక్తి",
         "rewardType": "బహుమతి రకం",
         "rewardValue": "బహుమతి విలువ"

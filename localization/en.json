@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Referral code",
         "program": "Referral program",
         "programs": "Referral programs",
+        "referral": "Referral",
+        "referralCode": "Referral code",
+        "referralCodes": "Referral codes",
+        "referralConversion": "Referral conversion",
+        "referralConversions": "Referral conversions",
         "referralDate": "Referral date",
-        "referredPerson": "Referred person",
+        "referralReward": "Referral reward",
+        "referralRewards": "Referral rewards",
         "referrals": "Referrals",
+        "referredPerson": "Referred person",
         "referrer": "Referrer",
         "rewardType": "Reward type",
         "rewardValue": "Reward value"

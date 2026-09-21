@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Código de referido",
         "program": "Programa de referidos",
         "programs": "Programas de referidos",
+        "referral": "Referido",
+        "referralCode": "Código de referido",
+        "referralCodes": "Códigos de referido",
+        "referralConversion": "Conversión de referido",
+        "referralConversions": "Conversiones de referido",
         "referralDate": "Fecha de referido",
-        "referredPerson": "Persona referida",
+        "referralReward": "Recompensa por referido",
+        "referralRewards": "Recompensas por referido",
         "referrals": "Referidos",
+        "referredPerson": "Persona referida",
         "referrer": "Referente",
         "rewardType": "Tipo de recompensa",
         "rewardValue": "Valor de la recompensa"

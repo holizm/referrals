@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Ajánlókód",
         "program": "Ajánlói program",
         "programs": "Ajánlói programok",
+        "referral": "Ajánlás",
+        "referralCode": "Ajánlókód",
+        "referralCodes": "Ajánlókódok",
+        "referralConversion": "Ajánlási konverzió",
+        "referralConversions": "Ajánlási konverziók",
         "referralDate": "Ajánlás dátuma",
-        "referredPerson": "Ajánlott személy",
+        "referralReward": "Ajánlási jutalom",
+        "referralRewards": "Ajánlási jutalmak",
         "referrals": "Ajánlások",
+        "referredPerson": "Ajánlott személy",
         "referrer": "Ajánló",
         "rewardType": "Jutalom típusa",
         "rewardValue": "Jutalom értéke"

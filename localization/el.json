@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Κωδικός παραπομπής",
         "program": "Πρόγραμμα παραπομπών",
         "programs": "Προγράμματα παραπομπών",
+        "referral": "Παραπομπή",
+        "referralCode": "Κωδικός παραπομπής",
+        "referralCodes": "Κωδικοί παραπομπής",
+        "referralConversion": "Μετατροπή παραπομπής",
+        "referralConversions": "Μετατροπές παραπομπής",
         "referralDate": "Ημερομηνία παραπομπής",
-        "referredPerson": "Άτομο που παραπέμφθηκε",
+        "referralReward": "Ανταμοιβή παραπομπής",
+        "referralRewards": "Ανταμοιβές παραπομπής",
         "referrals": "Παραπομπές",
+        "referredPerson": "Άτομο που παραπέμφθηκε",
         "referrer": "Παραπέμπων",
         "rewardType": "Τύπος ανταμοιβής",
         "rewardValue": "Αξία ανταμοιβής"

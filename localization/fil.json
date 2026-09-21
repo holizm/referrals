@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Referral code",
         "program": "Programang referral",
         "programs": "Mga programang referral",
+        "referral": "Referral",
+        "referralCode": "Referral code",
+        "referralCodes": "Mga referral code",
+        "referralConversion": "Referral conversion",
+        "referralConversions": "Mga referral conversion",
         "referralDate": "Petsa ng referral",
-        "referredPerson": "Taong ni-refer",
+        "referralReward": "Referral reward",
+        "referralRewards": "Mga referral reward",
         "referrals": "Mga referral",
+        "referredPerson": "Taong ni-refer",
         "referrer": "Nag-refer",
         "rewardType": "Uri ng gantimpala",
         "rewardValue": "Halaga ng gantimpala"

@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "کد معرفی",
         "program": "برنامه معرفی",
         "programs": "برنامه‌های معرفی",
+        "referral": "معرفی",
+        "referralCode": "کد معرفی",
+        "referralCodes": "کدهای معرفی",
+        "referralConversion": "تبدیل معرفی",
+        "referralConversions": "تبدیل‌های معرفی",
         "referralDate": "تاریخ معرفی",
-        "referredPerson": "فرد معرفی‌شده",
+        "referralReward": "پاداش معرفی",
+        "referralRewards": "پاداش‌های معرفی",
         "referrals": "معرفی‌ها",
+        "referredPerson": "فرد معرفی‌شده",
         "referrer": "معرف",
         "rewardType": "نوع پاداش",
         "rewardValue": "ارزش پاداش"

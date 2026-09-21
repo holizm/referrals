@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Värvningskod",
         "program": "Värvningsprogram",
         "programs": "Värvningsprogram",
+        "referral": "Hänvisning",
+        "referralCode": "Värvningskod",
+        "referralCodes": "Hänvisningskoder",
+        "referralConversion": "Hänvisningskonvertering",
+        "referralConversions": "Hänvisningskonverteringar",
         "referralDate": "Värvningsdatum",
-        "referredPerson": "Värvad person",
+        "referralReward": "Hänvisningsbelöning",
+        "referralRewards": "Hänvisningsbelöningar",
         "referrals": "Värvningar",
+        "referredPerson": "Värvad person",
         "referrer": "Värvare",
         "rewardType": "Belöningstyp",
         "rewardValue": "Belöningsvärde"

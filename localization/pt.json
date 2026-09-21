@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Código de indicação",
         "program": "Programa de indicações",
         "programs": "Programas de indicações",
+        "referral": "Indicação",
+        "referralCode": "Código de indicação",
+        "referralCodes": "Códigos de indicação",
+        "referralConversion": "Conversão de indicação",
+        "referralConversions": "Conversões de indicação",
         "referralDate": "Data da indicação",
-        "referredPerson": "Pessoa indicada",
+        "referralReward": "Recompensa de indicação",
+        "referralRewards": "Recompensas de indicação",
         "referrals": "Indicações",
+        "referredPerson": "Pessoa indicada",
         "referrer": "Indicador",
         "rewardType": "Tipo de recompensa",
         "rewardValue": "Valor da recompensa"

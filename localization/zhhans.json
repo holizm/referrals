@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "推荐码",
         "program": "推荐计划",
         "programs": "推荐计划",
+        "referral": "推荐",
+        "referralCode": "推荐码",
+        "referralCodes": "推荐码",
+        "referralConversion": "推荐转化",
+        "referralConversions": "推荐转化",
         "referralDate": "推荐日期",
-        "referredPerson": "被推荐人",
+        "referralReward": "推荐奖励",
+        "referralRewards": "推荐奖励",
         "referrals": "推荐记录",
+        "referredPerson": "被推荐人",
         "referrer": "推荐人",
         "rewardType": "奖励类型",
         "rewardValue": "奖励价值"

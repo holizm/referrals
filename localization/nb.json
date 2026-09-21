@@ -1,11 +1,17 @@
 {
     "common": {
-        "referralCode": "Vervingskode",
         "program": "Vervingsprogram",
         "programs": "Vervingsprogrammer",
+        "referral": "Henvisning",
+        "referralCode": "Vervingskode",
+        "referralCodes": "Henvisningskoder",
+        "referralConversion": "Henvisningskonvertering",
+        "referralConversions": "Henvisningskonverteringer",
         "referralDate": "Vervingsdato",
-        "referredPerson": "Vervet person",
+        "referralReward": "Henvisningsbelønning",
+        "referralRewards": "Henvisningsbelønninger",
         "referrals": "Vervinger",
+        "referredPerson": "Vervet person",
         "referrer": "Vervende person",
         "rewardType": "Belønningstype",
         "rewardValue": "Belønningsverdi"
