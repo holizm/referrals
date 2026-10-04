@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/referrals/referral/list',
-                title: 'referralsReferrals',
+                title: 'referrals',
             },
             {
                 path: '/referrals/referralProgram/list',
-                title: 'referralsPrograms',
+                title: 'programs',
             },
         ],
         icon: 'groupAdd',
         path: '/referrals',
-        title: 'referralsReferrals',
+        title: 'referrals',
     },
 ]

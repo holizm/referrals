@@ -1,7 +1,7 @@
 export default <>
-    <th start>referralsProgram</th>
-    <th>referralsCode</th>
-    <th>referralsStartDate</th>
-    <th>referralsEndDate</th>
-    <th>stateMachinesState</th>
+    <th start>program</th>
+    <th>code</th>
+    <th>startDate</th>
+    <th>endDate</th>
+    <th>state</th>
 </>

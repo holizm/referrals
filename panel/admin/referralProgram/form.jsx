@@ -11,16 +11,16 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='referralsCode'
+        placeholder='code'
         property='code'
         required
     />
     <DateTime
-        placeholder='referralsStartDate'
+        placeholder='startDate'
         property='startDate'
     />
     <DateTime
-        placeholder='referralsEndDate'
+        placeholder='endDate'
         property='endDate'
     />
     <Select
@@ -32,16 +32,16 @@ const inputs = <>
             'commission',
             'other',
         ]}
-        placeholder='referralsRewardType'
+        placeholder='rewardType'
         property='referrerRewardType'
         required
     />
     <Numeric
-        placeholder='referralsRewardValue'
+        placeholder='rewardValue'
         property='referrerRewardValue'
     />
     <LongText
-        placeholder='referralsDescription'
+        placeholder='description'
         property='description'
     />
 </>

@@ -17,6 +17,8 @@ referralProgram
     state
     description optional
     unique code
+    uses
+        stateMachines
 referralCode
     referralProgram
     referrer
@@ -30,6 +32,8 @@ referral
     referralDate
     state
     unique referralCode referredPerson
+    uses
+        stateMachines
 referralConversion
     referral
     customer

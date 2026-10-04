@@ -6,17 +6,17 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='referralsReferralCode'
+        placeholder='referralCode'
         property='referralCode'
         required
     />
     <Text
-        placeholder='referralsReferredPerson'
+        placeholder='referredPerson'
         property='referredPerson'
         required
     />
     <DateTime
-        placeholder='referralsReferralDate'
+        placeholder='referralDate'
         property='referralDate'
         required
     />

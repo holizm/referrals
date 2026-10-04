@@ -1,6 +1,6 @@
 export default <>
-    <th start>referralsReferrer</th>
-    <th>referralsReferredPerson</th>
-    <th>referralsReferralDate</th>
-    <th>stateMachinesState</th>
+    <th start>referrer</th>
+    <th>referredPerson</th>
+    <th>referralDate</th>
+    <th>state</th>
 </>
