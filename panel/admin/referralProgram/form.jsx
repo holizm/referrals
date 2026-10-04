@@ -11,18 +11,11 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
-    <DateTime
-        placeholder='startDate'
-        property='startDate'
-    />
-    <DateTime
-        placeholder='endDate'
-        property='endDate'
-    />
+    <DateTime startDate />
+    <DateTime endDate />
     <Select
         options={[
             'discount',
@@ -33,17 +26,14 @@ const inputs = <>
             'other',
         ]}
         placeholder='rewardType'
-        property='referrerRewardType'
+        referrerRewardType
         required
     />
     <Numeric
         placeholder='rewardValue'
-        property='referrerRewardValue'
+        referrerRewardValue
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
