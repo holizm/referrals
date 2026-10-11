@@ -1,8 +1,8 @@
 {
     "common": {
-        "program": "የማጣቀሻ ፕሮግራም",
-        "programs": "የማጣቀሻ ፕሮግራሞች",
-        "referral": "ሪፈራል",
+        "program": "የሰው መጋበዣ ፕሮግራም",
+        "programs": "የሰው መጋበዣ ፕሮግራሞች",
+        "referral": "ግብዣ",
         "referralCode": "የማጣቀሻ ኮድ",
         "referralCodes": "የሪፈራል ኮዶች",
         "referralConversion": "የሪፈራል ልወጣ",
@@ -10,8 +10,8 @@
         "referralDate": "የማጣቀሻ ቀን",
         "referralReward": "የሪፈራል ሽልማት",
         "referralRewards": "የሪፈራል ሽልማቶች",
-        "referrals": "ማጣቀሻዎች",
-        "referredPerson": "የተጠቀሰ ሰው",
+        "referrals": "ግብዣዎች",
+        "referredPerson": "የተጋበዘ ሰው",
         "referrer": "ጠቋሚ",
         "rewardType": "የሽልማት ዓይነት",
         "rewardValue": "የሽልማት ዋጋ"
